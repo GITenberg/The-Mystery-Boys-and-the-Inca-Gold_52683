@@ -1,11 +1,16 @@
 _repo: The-Mystery-Boys-and-the-Inca-Gold_52683
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52683-h/images/icover.jpg
 creator:
   author:
     agent_name: Powell, Van
     gutenberg_agent_id: '43894'
     url: http://www.gutenberg.org/2009/agents/43894
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52683#The-Mystery-Boys-and-the-Inca-Gold
 gutenberg_issued: '2016-07-30'
 gutenberg_type: Text
 identifiers:
