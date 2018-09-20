@@ -1,0 +1,23 @@
+_repo: The-Mystery-Boys-and-the-Inca-Gold_52683
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Powell, Van
+    gutenberg_agent_id: '43894'
+    url: http://www.gutenberg.org/2009/agents/43894
+description: ''
+gutenberg_issued: '2016-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PZ'
+- !lcsh 'Incas -- Juvenile fiction'
+- GITenberg
+title: The Mystery Boys and the Inca Gold
+url: http://www.gutenberg.org/ebooks/52683
